@@ -1,3 +1,7 @@
 # Profile
 
-Full stack web developer leveraging extensive experience in music to work collaboratively and creatively. Graduate of the University of Southern California with a Doctorate of Musical Arts. Winner of USC’s Order of the Arête leadership award. Earned a certificate in full-stack web development from UCLA Extension. Currently interesting ML for music
+Full stack web developer leveraging extensive experience in music to work collaboratively and creatively. Graduate of the University of Southern California with a Doctorate of Musical Arts.
+
+## Currently
+
+Building an app to be used in the courses that I will lecture on starting Fall 2024.
