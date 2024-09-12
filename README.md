@@ -4,4 +4,4 @@ Full stack web developer leveraging extensive experience in music to work collab
 
 ## Currently
 
-Building an app to be used in the courses that I will lecture on starting Fall 2024.
+Working on chatty-chapters.click
