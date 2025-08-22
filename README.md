@@ -4,4 +4,4 @@ Full stack web developer leveraging extensive experience in music to work collab
 
 ## Currently
 
-Working on Intercut
+Turning text into sound.
